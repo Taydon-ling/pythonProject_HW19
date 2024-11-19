@@ -10,3 +10,5 @@ m += "= "+ str(a)
 
 m = m.replace("x =","=")
 print(m)
+
+quit()
